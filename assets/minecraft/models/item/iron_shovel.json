@@ -1,0 +1,36 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_shovel"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/fire_wand"},
+		{"predicate": {"custom_model_data":2}, "model": "item/magic_torch"},
+		{"predicate": {"custom_model_data":3}, "model": "item/cursed_figure"},
+		{"predicate": {"custom_model_data":4}, "model": "item/economic_figure"},
+		{"predicate": {"custom_model_data":5}, "model": "item/oracle_figure"},
+		{"predicate": {"custom_model_data":6}, "model": "item/slimerers_heart"},
+		{"predicate": {"custom_model_data":7}, "model": "item/rainbow_dye"},
+		{"predicate": {"custom_model_data":8}, "model": "item/healing_wand"},
+		{"predicate": {"custom_model_data":9}, "model": "item/healing_figure"},
+		{"predicate": {"custom_model_data":10}, "model": "item/protecting_figure"},
+		{"predicate": {"custom_model_data":11}, "model": "item/cloud_particle"},
+		{"predicate": {"custom_model_data":12}, "model": "item/cloud"},
+		{"predicate": {"custom_model_data":13}, "model": "item/floating_wand"},
+		{"predicate": {"custom_model_data":14}, "model": "item/thunder_wand"},
+		{"predicate": {"custom_model_data":15}, "model": "item/sunglasses"},
+	
+		{"predicate": {"damaged": 0, "damage": 0.003984064}, "model": "item/fire_wand"},
+		{"predicate": {"damaged": 0, "damage": 0.007968127}, "model": "item/magic_torch"},
+		{"predicate": {"damaged": 0, "damage": 0.011952191}, "model": "item/cursed_figure"},
+		{"predicate": {"damaged": 0, "damage": 0.015936254}, "model": "item/economic_figure"},
+		{"predicate": {"damaged": 0, "damage": 0.019920318}, "model": "item/oracle_figure"},
+		{"predicate": {"damaged": 0, "damage": 0.023904382}, "model": "item/slimerers_heart"},
+		{"predicate": {"damaged": 0, "damage": 0.027888446}, "model": "item/rainbow_dye"},
+		{"predicate": {"damaged": 0, "damage": 0.031872510}, "model": "item/healing_wand"},
+		{"predicate": {"damaged": 0, "damage": 0.035856574}, "model": "item/healing_figure"},
+		{"predicate": {"damaged": 0, "damage": 0.039840637}, "model": "item/protecting_figure"},
+		{"predicate": {"damaged": 0, "damage": 0.043824701}, "model": "item/cloud_particle"},
+		{"predicate": {"damaged": 1, "damage": 0}, "model": "item/iron_shovel"}
+	]
+}

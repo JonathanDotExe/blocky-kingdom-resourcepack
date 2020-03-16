@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_axe"
+	},
+	"overrides": [
+		{"predicate": {"damaged": 0, "damage": 0.003984064}, "model": "item/hammer"},
+		{"predicate": {"damaged": 0, "damage": 0.007968127}, "model": "item/executioners_scythe"},
+		{"predicate": {"damaged": 1, "damage": 0}, "model": "item/iron_axe"},
+		
+		{"predicate": {"custom_model_data":1}, "model": "item/hammer"},
+		{"predicate": {"custom_model_data":2}, "model": "item/executioners_scythe"}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/bow"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/double_bow"},
+	
+		{"predicate": {"damaged": 0, "damage": 0.002597403}, "model": "item/double_bow"},
+		{"predicate": {"damaged": 1, "damage": 0}, "model": "item/bow"}
+	]
+}
