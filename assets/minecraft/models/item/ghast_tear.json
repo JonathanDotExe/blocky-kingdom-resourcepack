@@ -9,6 +9,7 @@
 		{"predicate": {"custom_model_data":3}, "model": "item/cloud"},
 		{"predicate": {"custom_model_data":4}, "model": "item/frozen_lightning"},
 		{"predicate": {"custom_model_data":5}, "model": "item/air_grenade"},
-		{"predicate": {"custom_model_data":6}, "model": "item/goblin_fang"}
+		{"predicate": {"custom_model_data":6}, "model": "item/goblin_fang"},
+		{"predicate": {"custom_model_data":7}, "model": "item/goblin_skin"}
 	]
 }
