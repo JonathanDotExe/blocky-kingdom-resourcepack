@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/air_grenade"
+		"layer0": "item/goblin_skin"
 	}
 }
