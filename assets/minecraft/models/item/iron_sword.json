@@ -10,6 +10,7 @@
 		{"predicate": {"custom_model_data":4}, "model": "item/grappling_hook"},
 		{"predicate": {"custom_model_data":5}, "model": "item/diamond_katana"},
 		{"predicate": {"custom_model_data":6}, "model": "item/goblin_knife"},
+		{"predicate": {"custom_model_data":7}, "model": "item/claws"},
 	
 		{"predicate": {"damaged": 0, "damage": 0.003984064}, "model": "item/katana"},
 		{"predicate": {"damaged": 0, "damage": 0.007968127}, "model": "item/dagger"},
