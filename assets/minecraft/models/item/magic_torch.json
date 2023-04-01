@@ -1,12 +1,12 @@
 {
 	"__comment": "Designed by Jojokobi with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
-		"Voxel-BFBFBF": "blocks/voxel-bfbfbf",
-		"Voxel-FFD100": "blocks/voxel-ffd100",
-		"Voxel-532A01": "blocks/voxel-532a01",
-		"Voxel-F98E00": "blocks/voxel-f98e00"
+		"particle": "item/particle",
+		"texture": "item/texture",
+		"Voxel-BFBFBF": "item/voxel-bfbfbf",
+		"Voxel-FFD100": "item/voxel-ffd100",
+		"Voxel-532A01": "item/voxel-532a01",
+		"Voxel-F98E00": "item/voxel-f98e00"
 	},
 	"elements": [ 	 
 		{
